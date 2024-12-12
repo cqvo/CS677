@@ -1,0 +1,2638 @@
+{
+    "report": {
+        "asset_report_id": "e7759548-f916-4a6f-817e-d5c49305853a",
+        "client_report_id": "ENTER_CLIENT_REPORT_ID_HERE",
+        "date_generated": "2024-12-11T20:34:51Z",
+        "days_requested": 30,
+        "items": [
+            {
+                "accounts": [
+                    {
+                        "account_id": "18a6JwEn1Dcr5vKkVmN9iQjEX47vX1spLaedL",
+                        "balances": {
+                            "available": null,
+                            "current": 320.76,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 0,
+                        "historical_balances": [],
+                        "mask": "5555",
+                        "name": "Plaid IRA",
+                        "official_name": null,
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "ira",
+                        "transactions": [],
+                        "type": "investment"
+                    },
+                    {
+                        "account_id": "7keRPVDrEWSlKRadebnwSJrk9Db49vtdAank6",
+                        "balances": {
+                            "available": 100,
+                            "current": 110,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 30,
+                        "historical_balances": [
+                            {
+                                "current": 110,
+                                "date": "2024-12-10",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 110,
+                                "date": "2024-12-09",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 110,
+                                "date": "2024-12-08",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 110,
+                                "date": "2024-12-07",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 110,
+                                "date": "2024-12-06",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 110,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 110,
+                                "date": "2024-12-04",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 110,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-12-02",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-12-01",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-28",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-27",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-26",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-25",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-24",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-23",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-22",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-21",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 116.33,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 121.73,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 121.73,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -378.27,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -361.94,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -272.54,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -272.54,
+                                "date": "2024-11-14",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -272.54,
+                                "date": "2024-11-13",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -272.54,
+                                "date": "2024-11-12",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -272.54,
+                                "date": "2024-11-11",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "mask": "0000",
+                        "name": "Plaid Checking",
+                        "official_name": "Plaid Gold Standard 0% Interest Checking",
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "checking",
+                        "transactions": [
+                            {
+                                "account_id": "7keRPVDrEWSlKRadebnwSJrk9Db49vtdAank6",
+                                "amount": 89.4,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "original_description": "SparkFun",
+                                "pending": false,
+                                "transaction_id": "rPZ7q5nbd4uQ8Xpm546nHZ4goxG9LLc79W9pG",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "7keRPVDrEWSlKRadebnwSJrk9Db49vtdAank6",
+                                "amount": 12,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "original_description": "McDonalds #3322",
+                                "pending": false,
+                                "transaction_id": "qkQJljynxaSegjL6G87VIn8BxbWGyytgPvPLo",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "7keRPVDrEWSlKRadebnwSJrk9Db49vtdAank6",
+                                "amount": 4.33,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "original_description": "Starbucks",
+                                "pending": false,
+                                "transaction_id": "KXmARVDg5ruar78WdeolTQRxBodevviRk7kKK",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "7keRPVDrEWSlKRadebnwSJrk9Db49vtdAank6",
+                                "amount": -500,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "original_description": "United Airlines **** REFUND ****",
+                                "pending": false,
+                                "transaction_id": "l3Nm71n8Kzu4MRL7nQVeT8Q1nqGDppfpgzgnr",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "7keRPVDrEWSlKRadebnwSJrk9Db49vtdAank6",
+                                "amount": 5.4,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "original_description": "Uber 063015 SF**POOL**",
+                                "pending": false,
+                                "transaction_id": "kB4MwmWgqrC9VL5p4wo8sNn4Vm61xxCLDGDqz",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "7keRPVDrEWSlKRadebnwSJrk9Db49vtdAank6",
+                                "amount": 6.33,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "original_description": "Uber 072515 SF**POOL**",
+                                "pending": false,
+                                "transaction_id": "JXmwkbDo5Kud71vBwEAzFPv31Xw6xxfBMKM1Q",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "type": "depository"
+                    },
+                    {
+                        "account_id": "8XQJ6REzk8uv7MjnEo5qF9JNdMDgdliW4RLb9",
+                        "balances": {
+                            "available": 12060,
+                            "current": 12060,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 30,
+                        "historical_balances": [
+                            {
+                                "current": 12060,
+                                "date": "2024-12-10",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-09",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-08",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-07",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-06",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-04",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-02",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-12-01",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-28",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-27",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-26",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-25",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-24",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-23",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-22",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-21",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-14",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-13",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-12",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 12060,
+                                "date": "2024-11-11",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "mask": "9002",
+                        "name": "Plaid Cash Management",
+                        "official_name": "Plaid Growth Cash Management",
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "cash management",
+                        "transactions": [],
+                        "type": "depository"
+                    },
+                    {
+                        "account_id": "EX6V7rDZ5gubBLdVvQM9S1BQykd4yVC4vMkqG",
+                        "balances": {
+                            "available": 4980,
+                            "current": 5020,
+                            "iso_currency_code": "USD",
+                            "limit": 10000,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 30,
+                        "historical_balances": [
+                            {
+                                "current": 5020,
+                                "date": "2024-12-10",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-09",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-08",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-07",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-06",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-04",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-02",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-12-01",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-28",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-27",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-26",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-25",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-24",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-23",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-22",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-21",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-14",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-13",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-12",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 5020,
+                                "date": "2024-11-11",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "mask": "9999",
+                        "name": "Plaid Business Credit Card",
+                        "official_name": "Plaid Platinum Small Business Credit Card",
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "credit card",
+                        "transactions": [],
+                        "type": "credit"
+                    },
+                    {
+                        "account_id": "LX9pMbD85zuyxw39A46ehG8Rk7zZk9TkvmpnA",
+                        "balances": {
+                            "available": null,
+                            "current": 23631.9805,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 0,
+                        "historical_balances": [],
+                        "mask": "6666",
+                        "name": "Plaid 401k",
+                        "official_name": null,
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "401k",
+                        "transactions": [],
+                        "type": "investment"
+                    },
+                    {
+                        "account_id": "MXmglZDk5Bu7VZyDKoXmT1xjw3ZVwDCLw5PgZ",
+                        "balances": {
+                            "available": 43200,
+                            "current": 43200,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 30,
+                        "historical_balances": [
+                            {
+                                "current": 43200,
+                                "date": "2024-12-10",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-09",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-08",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-07",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-06",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-04",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-02",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-12-01",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-28",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-27",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-26",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-25",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-24",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-23",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-22",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-21",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 43200,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 49050,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 49050,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 49050,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 49050,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 49050,
+                                "date": "2024-11-14",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 49050,
+                                "date": "2024-11-13",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 49050,
+                                "date": "2024-11-12",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 49050,
+                                "date": "2024-11-11",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "mask": "4444",
+                        "name": "Plaid Money Market",
+                        "official_name": "Plaid Platinum Standard 1.85% Interest Money Market",
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "money market",
+                        "transactions": [
+                            {
+                                "account_id": "MXmglZDk5Bu7VZyDKoXmT1xjw3ZVwDCLw5PgZ",
+                                "amount": 5850,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "original_description": "ACH Electronic CreditGUSTO PAY 123456",
+                                "pending": false,
+                                "transaction_id": "jzaLpgnolKtGQNjP6kn8UDdW54opbbt6mkmQP",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "type": "depository"
+                    },
+                    {
+                        "account_id": "QykpzWDn5aI7BJ1lkZ63T5o49GAr9btw4n7QB",
+                        "balances": {
+                            "available": null,
+                            "current": 1000,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 30,
+                        "historical_balances": [
+                            {
+                                "current": 1000,
+                                "date": "2024-12-10",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-09",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-08",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-07",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-06",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-04",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-02",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-12-01",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-28",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-27",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-26",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-25",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-24",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-23",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-22",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-21",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 1000,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 2000,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 2000,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 2000,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 2000,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 2000,
+                                "date": "2024-11-14",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 2000,
+                                "date": "2024-11-13",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 2000,
+                                "date": "2024-11-12",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 2000,
+                                "date": "2024-11-11",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "mask": "2222",
+                        "name": "Plaid CD",
+                        "official_name": "Plaid Bronze Standard 0.2% Interest CD",
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "cd",
+                        "transactions": [
+                            {
+                                "account_id": "QykpzWDn5aI7BJ1lkZ63T5o49GAr9btw4n7QB",
+                                "amount": 1000,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "original_description": "CD DEPOSIT .INITIAL.",
+                                "pending": false,
+                                "transaction_id": "35NnPvAmpDtw5nlj9PqeTgWEvjLBKKIZbvbQN",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "type": "depository"
+                    },
+                    {
+                        "account_id": "ZRJEbjW35GCzlX5PgWZeHBL1RMkPRXCeAvXy9",
+                        "balances": {
+                            "available": null,
+                            "current": 410,
+                            "iso_currency_code": "USD",
+                            "limit": 2000,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 30,
+                        "historical_balances": [
+                            {
+                                "current": 410,
+                                "date": "2024-12-10",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 410,
+                                "date": "2024-12-09",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 410,
+                                "date": "2024-12-08",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 410,
+                                "date": "2024-12-07",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 410,
+                                "date": "2024-12-06",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 410,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -90,
+                                "date": "2024-12-04",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -90,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -90,
+                                "date": "2024-12-02",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -90,
+                                "date": "2024-12-01",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -90,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -590,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-28",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-27",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-26",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-25",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-24",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-23",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-22",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-21",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3668.5,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3747,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3747,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3747,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3747,
+                                "date": "2024-11-14",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3747,
+                                "date": "2024-11-13",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3747,
+                                "date": "2024-11-12",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": -3747,
+                                "date": "2024-11-11",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "mask": "3333",
+                        "name": "Plaid Credit Card",
+                        "official_name": "Plaid Diamond 12.5% APR Interest Credit Card",
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "credit card",
+                        "transactions": [
+                            {
+                                "account_id": "ZRJEbjW35GCzlX5PgWZeHBL1RMkPRXCeAvXy9",
+                                "amount": 78.5,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "original_description": "Touchstone Climbing",
+                                "pending": false,
+                                "transaction_id": "PVwkrEDG5dco6XBVAZmGTgzPyDEewwIo5b5Kz",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "ZRJEbjW35GCzlX5PgWZeHBL1RMkPRXCeAvXy9",
+                                "amount": 500,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "original_description": "Madison Bicycle Shop",
+                                "pending": false,
+                                "transaction_id": "aDl6k3bj5LfQxoB4kZg8HmLW6qZyEEhZJbJoA",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "ZRJEbjW35GCzlX5PgWZeHBL1RMkPRXCeAvXy9",
+                                "amount": 500,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "original_description": "KFC",
+                                "pending": false,
+                                "transaction_id": "4mPn6V5loghr17B9gkKaiGjzwlDa33UJVqV9G",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "ZRJEbjW35GCzlX5PgWZeHBL1RMkPRXCeAvXy9",
+                                "amount": 2078.5,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "original_description": "AUTOMATIC PAYMENT - THANK",
+                                "pending": false,
+                                "transaction_id": "NX98qnDW53ue9Vv63MJrIwr41JQ9xxiypbpoe",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "ZRJEbjW35GCzlX5PgWZeHBL1RMkPRXCeAvXy9",
+                                "amount": 500,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "original_description": "Tectra Inc",
+                                "pending": false,
+                                "transaction_id": "dbrMgJ6Q5AcG4bmeMd9JU1KPbRExeecJzdzl8",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "ZRJEbjW35GCzlX5PgWZeHBL1RMkPRXCeAvXy9",
+                                "amount": 500,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "original_description": "United Airlines",
+                                "pending": false,
+                                "transaction_id": "xMJDxXnz7Zhob59ygl7RTqlDRdbxjjc6PXPkp",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "type": "credit"
+                    },
+                    {
+                        "account_id": "enzM6JWZ58crNAxaXQD4i436dBnkdjirRX5Zx",
+                        "balances": {
+                            "available": 200,
+                            "current": 210,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 30,
+                        "historical_balances": [
+                            {
+                                "current": 210,
+                                "date": "2024-12-10",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-09",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-08",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-07",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-06",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-04",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-02",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-12-01",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-28",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-27",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-26",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-25",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-24",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-23",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-22",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-21",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 210,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 235,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 235,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 235,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 235,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 235,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 230.78,
+                                "date": "2024-11-14",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 230.78,
+                                "date": "2024-11-13",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 230.78,
+                                "date": "2024-11-12",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 230.78,
+                                "date": "2024-11-11",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "mask": "1111",
+                        "name": "Plaid Saving",
+                        "official_name": "Plaid Silver Standard 0.1% Interest Saving",
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "savings",
+                        "transactions": [
+                            {
+                                "account_id": "enzM6JWZ58crNAxaXQD4i436dBnkdjirRX5Zx",
+                                "amount": -4.22,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "original_description": "INTRST PYMNT",
+                                "pending": false,
+                                "transaction_id": "BXmLw5b76guW91kwRJbNhlzMedRxrrf45R5XV",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "account_id": "enzM6JWZ58crNAxaXQD4i436dBnkdjirRX5Zx",
+                                "amount": 25,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "original_description": "CREDIT CARD 3333 PAYMENT *//",
+                                "pending": false,
+                                "transaction_id": "zLblJ5X3QEF8Bg1LAv5wh7vnbqpdNNulBZBMj",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "type": "depository"
+                    },
+                    {
+                        "account_id": "gq3MpJW15LHBjdlbmr6ZtvoQVWkMVEfEaGnp3",
+                        "balances": {
+                            "available": 6009,
+                            "current": 6009,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 30,
+                        "historical_balances": [
+                            {
+                                "current": 6009,
+                                "date": "2024-12-10",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-09",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-08",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-07",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-06",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-05",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-04",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-03",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-02",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-12-01",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-30",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-29",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-28",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-27",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-26",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-25",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-24",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-23",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-22",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-21",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-20",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-19",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-18",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-17",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-16",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-15",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-14",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-13",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-12",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            },
+                            {
+                                "current": 6009,
+                                "date": "2024-11-11",
+                                "iso_currency_code": "USD",
+                                "unofficial_currency_code": null
+                            }
+                        ],
+                        "mask": "9001",
+                        "name": "Plaid HSA",
+                        "official_name": "Plaid Cares Health Savings Account",
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "hsa",
+                        "transactions": [],
+                        "type": "depository"
+                    },
+                    {
+                        "account_id": "oa71bLnABkujp4d1aD7ec8dVb3nqbJtoxP7e6",
+                        "balances": {
+                            "available": null,
+                            "current": 56302.06,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 0,
+                        "historical_balances": [],
+                        "mask": "8888",
+                        "name": "Plaid Mortgage",
+                        "official_name": null,
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "mortgage",
+                        "transactions": [],
+                        "type": "loan"
+                    },
+                    {
+                        "account_id": "p4eMgXnG3dFGo4nDv6mjUlZBxGN8x9tpyqVMA",
+                        "balances": {
+                            "available": null,
+                            "current": 65262,
+                            "iso_currency_code": "USD",
+                            "limit": null,
+                            "margin_loan_amount": null,
+                            "unofficial_currency_code": null
+                        },
+                        "days_available": 0,
+                        "historical_balances": [],
+                        "mask": "7777",
+                        "name": "Plaid Student Loan",
+                        "official_name": null,
+                        "owners": [
+                            {
+                                "addresses": [
+                                    {
+                                        "data": {
+                                            "city": "Malakoff",
+                                            "country": "US",
+                                            "postal_code": "14236",
+                                            "region": "NY",
+                                            "street": "2992 Cameron Road"
+                                        },
+                                        "primary": true
+                                    },
+                                    {
+                                        "data": {
+                                            "city": "San Matias",
+                                            "country": "US",
+                                            "postal_code": "93405-2255",
+                                            "region": "CA",
+                                            "street": "2493 Leisure Lane"
+                                        },
+                                        "primary": false
+                                    }
+                                ],
+                                "emails": [
+                                    {
+                                        "data": "accountholder0@example.com",
+                                        "primary": true,
+                                        "type": "primary"
+                                    },
+                                    {
+                                        "data": "accountholder1@example.com",
+                                        "primary": false,
+                                        "type": "secondary"
+                                    },
+                                    {
+                                        "data": "extraordinarily.long.email.username.123456@reallylonghostname.com",
+                                        "primary": false,
+                                        "type": "other"
+                                    }
+                                ],
+                                "names": [
+                                    "Alberta Bobbeth Charleson"
+                                ],
+                                "phone_numbers": [
+                                    {
+                                        "data": "1112223333",
+                                        "primary": false,
+                                        "type": "home"
+                                    },
+                                    {
+                                        "data": "1112224444",
+                                        "primary": false,
+                                        "type": "work"
+                                    },
+                                    {
+                                        "data": "1112225555",
+                                        "primary": false,
+                                        "type": "mobile"
+                                    }
+                                ]
+                            }
+                        ],
+                        "ownership_type": null,
+                        "subtype": "student",
+                        "transactions": [],
+                        "type": "loan"
+                    }
+                ],
+                "date_last_updated": "2024-12-11T20:34:51Z",
+                "institution_id": "ins_20",
+                "institution_name": "Citizens Bank",
+                "item_id": "7keRPVDrEWSlKRadebnwSJrwDryvepcgjAoGM"
+            }
+        ],
+        "user": {
+            "client_user_id": "ENTER_USER_ID_HERE",
+            "email": "ENTER_EMAIL_HERE",
+            "first_name": "ENTER_FIRST_NAME_HERE",
+            "last_name": "ENTER_LAST_NAME_HERE",
+            "middle_name": "ENTER_MIDDLE_NAME_HERE",
+            "phone_number": "1-415-867-5309",
+            "ssn": "111-22-1234"
+        }
+    },
+    "request_id": "NnKCGo3w8RVDLtE",
+    "warnings": []
+}
